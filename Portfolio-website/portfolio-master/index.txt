@@ -1,0 +1,181 @@
+Poornima Mendhekar - Web Developer from India
+
+
+
+#---------- HEADER ----------#
+
+Poornima Mendhekar
+
+aria-label = Toggle Menu
+
+<ion-icon name="menu-outline"></ion-icon>
+<ion-icon name="close-outline"></ion-icon>
+
+Home
+About
+Portfolio
+Skills
+Contact
+Blog
+
+Download CV
+
+
+
+#---------- HERO ----------#
+
+alt = poornima's Photo
+
+12
+Years of Success
+
+800+
+Projects Completed
+
+<ion-icon name="trophy"></ion-icon>
+
+alt = I'm developer from India
+
+Hello I'm
+
+Poornima Mendhekar
+
+Web Developer from India
+
+"They do not blame it. No delights drive them away, they abandon them, they are ignorant of time henceforth as a whole."
+
+Get a Quote
+
+About Me
+
+
+
+#---------- ABOUT ----------#
+
+alt = Ethan's Photo
+
+alt = Ethan's Photo
+
+<ion-icon name="logo-css3"></ion-icon>
+<ion-icon name="logo-javascript"></ion-icon>
+<ion-icon name="logo-angular"></ion-icon>
+
+I'm a Developer
+
+I Develop Application that Help People
+
+"To not take from it the opportunity to exchange that for the benefit of whoever, to flee the pain, because it is blameless, without pleasure it is likely that hate has arisen."
+
+"But they do not provide it, they are in fault that duty is left behind easily, that is of labors. But so that you may discern whence all comes."
+
+View Portfolio
+
+
+
+#---------- PORTFOLIO ----------#
+
+Portfolio
+
+My Amazing Works
+
+"To exclude or remove it from that exchange for the benefit of whoever, to flee the pain in reprehen that pleasure"
+
+Youtube
+
+Web Application for Desiverse
+
+View Project 
+<ion-icon name="arrow-forward"></ion-icon>
+
+Vimeo
+
+Soundcloud
+
+Details
+
+
+
+#---------- SKILLS ----------#
+
+My Skills
+
+I Develop Skills Regularly
+
+Dliquip ex ea commo do conse namber onequa ute irure dolor in reprehen derit in voluptate
+
+CSS
+95%
+
+React
+75%
+
+MongoDB
+90%
+
+Python
+70%
+
+PHP
+80%
+
+JavaScript
+75%
+
+
+
+#---------- CONTACT ----------#
+
+Don't be shy
+
+Drop Me a Line
+
+placeholder = Name
+
+placeholder = Email
+
+placeholder = Message
+
+Submit Message
+
+<ion-icon name="location"></ion-icon>
+Address
+20, London, United Kingdom
+
+<ion-icon name="mail"></ion-icon>
+Email
+hello@ethan.com
+
+<ion-icon name="call"></ion-icon>
+Phone
++123 456 7890
+
+
+
+#---------- BLOG ----------#
+
+Latest News
+
+Checkout My Recent Blogs
+
+"To exclude or remove it from that exchange for the benefit of whoever, to flee the pain in reprehen that pleasure"
+
+alt = Jim Morisson Says when the musics over turn off the light
+
+Web Development
+
+Jim Morisson Says when the musics over turn off the light
+
+
+
+#---------- FOOTER ----------#
+
+&copy; 2022 codewithsadee. All Rights Reseverd
+
+Terms & Condition 
+Privacy Policy
+
+
+
+#---------- BACK TO TOP ----------#
+
+BACK TOP
